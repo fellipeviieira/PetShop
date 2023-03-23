@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Petlândia - Tudo para seu Pet!</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+	<header>
+		<h1>Petlândia - Tudo para seu Pet!</h1>
+		<img src="logo.png" alt="Logo do PetShop">
+	</header>
+
+	<nav>
+		<ul>
+			<li><a href="#produtos">Produtos</a></li>
+			<li><a href="#servicos">Serviços</a></li>
+			<li><a href="#contato">Contato</a></li>
+			<li><a href="#historia">História</a></li>
+			<li><a href="#depoimentos">Depoimentos</a></li>
+		</ul>
+	</nav>
+
+	<main>
+<!-- seção de produtos -->    
+		<section id="produtos">
+			<h2>Produtos</h2>
+			<ul>
+				<li>Ração para cães</li>
+				<li>Ração para gatos</li>
+				<li>Brinquedos para pets</li>
+				<li>Camas e casinhas para pets</li>
+				<li>Coleiras e guias para cães</li>
+				<li>Caixas de transporte para pets</li>
+				<li>Acessórios para alimentação de pets</li>
+				<li>Produtos de higiene para pets</li>
+				<li>Areia para gatos</li>
+				<li>Gaiolas para pássaros</li>
+			</ul>
+		</section>
+
+<!-- seção de serviços -->    
+		<section id="servicos">
+			<h2>Serviços</h2>
+			<ul>
+				<li>Banho e tosa</li>
+				<li>Consultas com veterinários</li>
+				<li>PetHotel
+     </section>
+      
+<!-- seção de contato -->
+	<section>
+		<h2>Contato</h2>
+		<p>Endereço: Rua Nome da Rua, XXX, Bairro, Cidade - Estado</p>
+		<p>E-mail: contato@petlandia.com.br</p>
+		<p>Telefone: (00) 0000-0000</p>
+	</section>
+
+	<!-- seção que explica a história do PetShop -->
+	<section>
+		<h2>Sobre</h2>
+		<p>A Petlândia foi fundada em 2000 com o objetivo de oferecer os melhores produtos e serviços para pets de todas as raças e tamanhos. Desde então, temos trabalhado incansavelmente para atender nossos clientes e seus amados animais de estimação.</p>
+	</section>
+
+	<!-- seção de depoimento de clientes -->
+	<section>
+		<h2>Depoimentos de Clientes</h2>
+		<blockquote>
+			<p>"Minha experiência com a Petlandia foi incrível! Eles me ajudaram a escolher o melhor alimento para meu cachorro e agora ele está mais saudável e feliz do que nunca."</p>
+			<footer> - Fulano de Tal</footer>
+		</blockquote>
+		<blockquote>
+			<p>"Eu nunca tinha encontrado um lugar que cuidasse tão bem do meu gato como a Petlandia. Eles são realmente apaixonados por animais!"</p>
+			<footer> - Beltrano de Tal</footer>
+		</blockquote>
+	</section>
+
+	<!-- rodapé -->
+	<footer>
+		<p>&copy; 2023 Petlândia - Tudo para seu Pet. Todos os direitos reservados.</p>
+	</footer>
+</body>
+</html>
